@@ -1,5 +1,5 @@
 {
-  "name": "xlsx-template",
+  "name": "xlsx-template-custom",
   "version": "0.5.0-Alpha",
   "description": "Generate .xlsx (Excel) files from templates built in Excel",
   "main": "./lib/index",
@@ -23,15 +23,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/optilude/xlsx-template.git"
+    "url": "http://github.com/jalarrea/xlsx-template.git"
   },
   "bugs": {
-    "url": "http://github.com/optilude/xlsx-template/issues"
+    "url": "http://github.com/jalarrea/xlsx-template/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/optilude/xlsx-template/raw/master/LICENSE"
+      "url": "http://github.com/jalarrea/xlsx-template/raw/master/LICENSE"
     }
   ],
   "dependencies": {
